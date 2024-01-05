@@ -1,5 +1,5 @@
 # About me
-- I'm a Software Engineer. Java + Spring Framework
+- I'm a Fullstack Software Engineer.
 - I use Arch btw :3
 
 # Languages and Tools
