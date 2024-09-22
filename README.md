@@ -1,7 +1,7 @@
 # About me
-- I'm a Fullstack Software Engineer
-- I use Arch btw :3. eww + Hyprland
+- I'm a Software Engineer;
+- I use Arch btw.
 
 # Social
-- discord: @sum3ragi
-- reddit: u/Suzerqin
+- discord: @sum3ragi;
+- reddit: u/Suzerqin.
